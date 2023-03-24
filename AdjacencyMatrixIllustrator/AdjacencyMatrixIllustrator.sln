@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdjacencyMatrixIllustrator", "AdjacencyMatrixIllustrator\AdjacencyMatrixIllustrator.csproj", "{208BB512-1DA8-4953-8996-40E74D7E3E4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{208BB512-1DA8-4953-8996-40E74D7E3E4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{208BB512-1DA8-4953-8996-40E74D7E3E4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{208BB512-1DA8-4953-8996-40E74D7E3E4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{208BB512-1DA8-4953-8996-40E74D7E3E4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14DD7980-0BC0-492B-A8F7-3735CE3C0385}
+	EndGlobalSection
+EndGlobal
